@@ -4,7 +4,7 @@
 
 - 🖥 I'm currently learning some new languages at [**Udemy**](https://www.udemy.com/).
 
-- 🔭 I’m currently working on <a href="https://github.com/LDNzera/">new projects</a>... 
+- 🔭 I’m currently working on <a href="https://github.com/LDNzera?tab=repositories/">new projects</a>... 
 
 - 🌱 I’m currently learning React, C#, Java and FiveM Development.
 
