@@ -1,6 +1,6 @@
 # Pedro Galembeck
 
-## About me
+Here you can find some cool things about me, that you don't know yet...
 
 - 🖥 I'm currently learning some new languages at [**Udemy**](https://www.udemy.com/).
 
