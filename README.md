@@ -10,7 +10,5 @@ Here you can find some cool things about me, that you don't know yet...
 
 - 👯 I’m looking to collaborate with new people.
 
-- 🤔 I’m looking for new projects to work with...
-
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LDNzera)](https://github.com/LDNzera) 
 
