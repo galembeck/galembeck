@@ -38,4 +38,4 @@
 
 <br/>
 
-<h3>A little nikit0's help to build this repository...<h3/>
+<h3>A little <a href="https://github.com/nikit0/">nikit0's<a/> help to build this repository...<h3/>
