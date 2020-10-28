@@ -5,12 +5,11 @@
 - 🤔 &nbsp; Exploring new technologies every day...
 - 🎓 &nbsp; I'm still coursing "analysis and systems development" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>.
 - 💼 &nbsp; i'm currently searching new projects to work with.
-- 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
+- 🌱 &nbsp; Learning more about JavaScript, TypeScript, React, C# and FiveM Development.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Some technologies</h3>
 
 - 💻 &nbsp;
-  ![3DS Max](https://img.shields.io/badge/-3DS%20Max-333333?style=flat&logo=sketchup&logoColor=01a8a8)
   ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=e72b2d)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
