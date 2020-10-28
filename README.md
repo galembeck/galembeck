@@ -9,8 +9,6 @@
 
 <h3> 🛠 |&nbsp;Some technologies...</h3>
 
-- 💻 &nbsp;
-  ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=e72b2d)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
