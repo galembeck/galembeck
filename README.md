@@ -1,13 +1,13 @@
 <h2> Hey! I'm LDNzera.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Personal information...</h3>
 
 - 🤔 &nbsp; Exploring new technologies every day...
 - 🎓 &nbsp; I'm still coursing "analysis and systems development" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>.
 - 💼 &nbsp; i'm currently searching new projects to work with.
 - 🌱 &nbsp; Learning more about JavaScript, TypeScript, React, C# and FiveM Development.
 
-<h3> 🛠 &nbsp;Some technologies</h3>
+<h3> 🛠 &nbsp;Some technologies...</h3>
 
 - 💻 &nbsp;
   ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=e72b2d)
