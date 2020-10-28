@@ -39,16 +39,9 @@
 
 <h3> ⚙️  GitHub Analytics </h3>
   
-<a href="https://github.com/nikit0">
+<a href="https://github.com/LDNzera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDNzera&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDNzera&theme=react&layout=compact" style"max-width: 100%;" />
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.instagram.com/thicsouzaa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thicsouzaa-blue?style=flat-square&logo=instagram"></a>
-<a href="thicsouzaa@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-thicsouzaa@outlook.com-blue?style=flat-square&logo=gmail"></a>
-</p>
