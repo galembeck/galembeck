@@ -1,13 +1,13 @@
 <h2> Hey! I'm LDNzera.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Personal information...</h3>
+<h3> 👨🏻‍💻 | &nbsp;Personal information...</h3>
 
 - 🤔 &nbsp; Exploring new technologies every day...
 - 🎓 &nbsp; I'm still coursing "analysis and systems development" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>.
 - 💼 &nbsp; i'm currently searching new projects to work with.
 - 🌱 &nbsp; Learning more about JavaScript, TypeScript, React, C# and FiveM Development.
 
-<h3> 🛠 &nbsp;Some technologies...</h3>
+<h3> 🛠 | &nbsp;Some technologies...</h3>
 
 - 💻 &nbsp;
   ![SketchUp](https://img.shields.io/badge/-SketchUp-333333?style=flat&logo=sketchup&logoColor=e72b2d)
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h3> ⚙️  GitHub Analytics </h3>
+<h3> ⚙️ | GitHub Analytics </h3>
   
 <a href="https://github.com/LDNzera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDNzera&theme=react&show_icons=true" style"max-width: 100%;" />
