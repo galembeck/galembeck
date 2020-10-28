@@ -2,11 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; I studied Computer Science at <a href="http://unimep.edu.br">UNIMEP</a>.
-- 💼 &nbsp; I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a>.
+- 🤔 &nbsp; Exploring new technologies every day...
+- 🎓 &nbsp; I'm still coursing "analysis and systems development" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>.
+- 💼 &nbsp; i'm currently searching new projects to work with.
 - 🌱 &nbsp; Learning more about 3D, React, C# and FiveM Development.
-- ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,3 +37,4 @@
 </a>
 
 <br/>
+
