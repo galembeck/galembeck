@@ -34,5 +34,3 @@
 </a>
 
 <br/>
-
-<h3>A little <a href="https://github.com/nikit0/">nikit0's<a/> help to build this repository...<h3/>
