@@ -3,9 +3,10 @@
 <h3> 👨🏻‍💻 |&nbsp;Personal information...</h3>
 
 - 🤔 &nbsp; Exploring new technologies every day...
-<!-- - 🎓 &nbsp; I'm still coursing "software engineer" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>. -->
 - 💼 &nbsp; i'm currently searching new projects to work with.
 - 🌱 &nbsp; Learning more about JavaScript, TypeScript, React, C# and FiveM Development.
+
+<!-- - 🎓 &nbsp; I'm still coursing "software engineer" at <a href="https://cotuca.unicamp.br/cotuca/">COTUCA</a>. -->
 
 <h3> 🛠 |&nbsp;Some technologies...</h3>
 
