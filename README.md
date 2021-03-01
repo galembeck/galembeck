@@ -2,6 +2,8 @@
 
 <h3> 👨🏻‍💻 |&nbsp;Personal information...</h3>
 
+<img src="https://static.wixstatic.com/media/2fa9a4_1e0f2e71e28b4b75afdc6bda582b45ba~mv2.png/v1/fill/w_560,h_472,al_c,q_85,usm_0.66_1.00_0.01/rocket.webp" min-width="200px" max-width="350px" width="350px" align="right" alt="Rocket">
+
 - 🤔 &nbsp; Exploring new technologies every day...
 - 💼 &nbsp; i'm currently searching new projects to work with.
 - 🌱 &nbsp; Learning more about JavaScript, TypeScript, React, C# and FiveM Development.
