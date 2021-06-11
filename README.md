@@ -2,19 +2,19 @@
 
 ```javascript
 const App = {
-    code: ["C#", "Javascript", "Lua", "Html", "Css" ],
-    askMeAbout: ["fivem", "web dev", "tech", "app dev", "music", "full stack"],
+    code: ["TypeScript", "Javascript", "Lua", "Html", "Css" ],
+    askMeAbout: ["fivem", "web-dev", "tech", "app dev", "music"],
     technologies: {
        frontEnd: ["React", "Next"],
        mobileApp: ["React Native", "Expo"],
-       backEnd: {
+<!--        backEnd: {
             js: ["node", "express"],
             c#: ["Asp Net Core, "Entity Framework"],
-        },
+        }, -->
         databases: ["MySql", "sqlite"],
         misc: ["Fivem"]
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "We need to learn every day so that the next day we can forget what we learned a long time ago."
 };
 ```
   
