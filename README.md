@@ -1,4 +1,4 @@
-## LDNzera | ⭐️
+## ⭐️ | LDNzera 
 
 ```javascript
 const App = {
