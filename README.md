@@ -17,6 +17,7 @@ const App = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<br/>
   
 <a href="https://github.com/LDNzera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDNzera&theme=react&show_icons=true" style"max-width: 100%;" />
