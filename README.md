@@ -7,10 +7,9 @@ const App = {
     technologies: {
        frontEnd: ["React", "Next"],
        mobileApp: ["React Native", "Expo"],
-<!--        backEnd: {
+       backEnd: {
             js: ["node", "express"],
-            c#: ["Asp Net Core, "Entity Framework"],
-        }, -->
+        }, 
         databases: ["MySql", "sqlite"],
         misc: ["Fivem"]
     },
