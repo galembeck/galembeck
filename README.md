@@ -14,7 +14,7 @@ const Profile = {
         misc: ["Fivem"],
         learning: ["Authentication and Database w/ Firebase"]
     },
-    funFact: "We need to learn every day so that the next day we can forget what we learned a long time ago."
+    loves: "Formula 1 (every type of racing) and planes. Of course, programming too..."
 };
 ```
   
