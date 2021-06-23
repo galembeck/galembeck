@@ -1,7 +1,7 @@
 ## ⭐️ | LDNzera 
 
 ```javascript
-const App = {
+const Profile = {
     code: ["TypeScript", "Javascript", "Lua", "Html", "Css" ],
     askMeAbout: ["fivem", "web-dev", "tech", "app dev", "music"],
     technologies: {
