@@ -14,7 +14,7 @@ const Profile = {
         misc: ["Fivem"],
         learning: ["Authentication and Database w/ Firebase"]
     },
-    loves: "Formula 1 (every type of racing) and planes. Of course, programming too..."
+    loves: "Formula 1 and planes. Of course, programming too..."
 };
 ```
   
