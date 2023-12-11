@@ -2,19 +2,19 @@
 
 ```javascript
 const Profile = {
-    code: ["TypeScript", "Javascript", "Lua", "Html", "Css" ],
+    code: ["TypeScript", "Javascript", "Lua", "React", "Next" ],
     askMeAbout: ["fivem", "web-dev", "tech", "app dev", "music"],
     technologies: {
        frontEnd: ["React", "Next"],
        mobileApp: ["React Native", "Expo"],
        backEnd: {
-            js: ["node", "express"],
+            js: ["nodejs"],
         }, 
         databases: ["MySql", "sqlite"],
         misc: ["Fivem"],
         learning: ["Authentication and Database w/ Firebase"]
     },
-    loves: "Formula 1 and planes. Of course, programming too..."
+    loves: "Cars and planes."
 };
 ```
   
