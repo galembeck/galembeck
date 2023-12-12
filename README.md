@@ -1,4 +1,4 @@
-## ⭐️ | LDNzera 
+<!-- ## ⭐️ | LDNzera 
 
 ```javascript
 const Profile = {
@@ -23,4 +23,18 @@ const Profile = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDNzera&theme=react&layout=compact" style"max-width: 100%;" />
 </a>
 
-<br/>
+<br/> -->
+
+# Pedro Galembeck
+
+Computer engineer student at @PUC-Campinas.
+
+[![Instagram Badge](https://img.shields.io/badge/-@galembeckx-C70039?style=flat-square&labelColor=C70039&logo=instagram&logoColor=white&link=https://instagram.com/galembeckx)](https://instagram.com/galembeckx) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Galembeck-C70039?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-galembeck/)](https://www.linkedin.com/in/pedro-galembeck/) 
+[![Gmail Badge](https://img.shields.io/badge/-galembeckpedro@gmail.com-C70039?style=flat-square&logo=Gmail&logoColor=white&link=mailto:galembeckpedro@gmail.com)](mailto:galembeckpedro@gmail.com)
+
+Passionate about the main web & mobile development technologies, especially front-end, focused on learning more and more.
+
+I started my programming journey with Java plugins and FiveM resources in Lua, later introduced to web & mobile development by @Rocketseat.
+
+Currently, frequently using Next and TypeScript and studying NodeJS.
