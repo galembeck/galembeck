@@ -35,6 +35,6 @@ Computer engineer student at @PUC-Campinas.
 
 Passionate about the main web & mobile development technologies, especially front-end, focused on learning more and more.
 
-I started my programming journey with Java plugins and FiveM resources in Lua, later introduced to web & mobile development by @Rocketseat.
+I started my programming journey with Java plugins and FiveM resources in Lua, later introduced to web & mobile development by [@Rocketseat](https://www.rocketseat.com.br).
 
 Currently, frequently using Next and TypeScript and studying NodeJS.
