@@ -30,7 +30,7 @@ const Profile = {
 Computer engineer student at @PUC-Campinas.
 
 [![Instagram Badge](https://img.shields.io/badge/-@galembeckx-C70039?style=flat-square&labelColor=C70039&logo=instagram&logoColor=white&link=https://instagram.com/galembeckx)](https://instagram.com/galembeckx) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Galembeck-C70039?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-galembeck/)](https://www.linkedin.com/in/pedro-galembeck/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Galembeck-C70039?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-galembeck/)]([https://www.linkedin.com/in/pedro-galembeck/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2fFP%2BZziQkqN2g%2F693v5Wg%3D%3D)) 
 [![Gmail Badge](https://img.shields.io/badge/-galembeckpedro@gmail.com-C70039?style=flat-square&logo=Gmail&logoColor=white&link=mailto:galembeckpedro@gmail.com)](mailto:galembeckpedro@gmail.com)
 
 Passionate about the main web & mobile development technologies, especially front-end, focused on learning more and more.
