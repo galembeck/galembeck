@@ -37,4 +37,4 @@ Passionate about the main web & mobile development technologies, especially fron
 
 My first contact with the different programming languages ​​was, initially, with Java focused on creating plugins for Minecraft, later migrating to JavaScript and Lua (FiveM resources). After some time, I discovered web & mobile development using React and TypeScript introduced by [@Rocketseat](https://www.rocketseat.com.br).
 
-Currently, frequently using Next/Vite and TypeScript. I´m also studying NodeJS.
+Currently, using Next/Vite and TypeScript. I´m also studying NodeJS.
