@@ -25,7 +25,7 @@ const Profile = {
 
 <br/> -->
 
-# Pedro Galembeck
+# Pedro Henrique Galembeck
 
 Computer engineer student at @PUC-Campinas.
 
