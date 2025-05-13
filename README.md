@@ -27,6 +27,10 @@ const Profile = {
 
 # Pedro Henrique Galembeck
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
+</a>
+
 Computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
 
 [![Instagram Badge](https://img.shields.io/badge/-@galembeckx-C70039?style=flat-square&labelColor=C70039&logo=instagram&logoColor=white&link=https://instagram.com/galembeckx)](https://instagram.com/galembeckx) 
@@ -38,3 +42,9 @@ Passionate about the main web & mobile development technologies, especially fron
 My first contact with the different programming languages ​​was, initially, with Java focused on creating plugins for Minecraft, later migrating to JavaScript and Lua (FiveM resources). After some time, I discovered web & mobile development using React and TypeScript introduced by [@Rocketseat](https://www.rocketseat.com.br).
 
 Currently, using Next/Vite and TypeScript. I´m also studying NodeJS.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galembeck/galembeck/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galembeck/galembeck/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/galembeck/galembeck/output/github-snake.svg" />
+</picture>
