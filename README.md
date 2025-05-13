@@ -26,7 +26,7 @@ const Profile = {
 <br/> -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=30&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=red&size=30&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
 </a>
 
 Computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
@@ -40,12 +40,6 @@ Passionate about the main web & mobile development technologies, especially fron
 My first contact with the different programming languages ​​was, initially, with Java focused on creating plugins for Minecraft, later migrating to JavaScript and Lua (FiveM resources). After some time, I discovered web & mobile development using React and TypeScript introduced by [@Rocketseat](https://www.rocketseat.com.br).
 
 Currently, using Next/Vite and TypeScript. I´m also studying NodeJS.
-
-<!-- GitHub Stats -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=galembeck&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Galembeck GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galembeck&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
-</div>
 
 <!-- Snake Animation -->
 <picture>
