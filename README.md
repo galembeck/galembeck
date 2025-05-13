@@ -26,7 +26,7 @@ const Profile = {
 <br/> -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=#FF0000&size=30&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
 </a>
 
 Computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
