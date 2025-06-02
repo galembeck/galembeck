@@ -29,7 +29,7 @@ const Profile = {
   <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=30&center=false&vCenter=true&width=1000&lines=Pedro+Galembeck;Happy+hacking!+:%29" alt="Typing SVG">
 </a>
 
-Computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
+Front-end Developer at [@MB Labs](https://mblabs.com.br/) & computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
 
 [![Instagram Badge](https://img.shields.io/badge/-@galembeckx-007BFF?style=flat-square&labelColor=007BFF&logo=instagram&logoColor=white&link=https://instagram.com/galembeckx)](https://instagram.com/galembeckx) 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Galembeck-007BFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-galembeck/)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2fFP%2BZziQkqN2g%2F693v5Wg%3D%3D) 
