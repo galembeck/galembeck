@@ -32,7 +32,7 @@ const Profile = {
 Front-end Developer at [@MB Labs](https://mblabs.com.br/) & computer engineer student at [@PUC-Campinas](https://puc-campinas.edu.br).
 
 [![Instagram Badge](https://img.shields.io/badge/-@galembeckx-007BFF?style=flat-square&labelColor=007BFF&logo=instagram&logoColor=white&link=https://instagram.com/galembeckx)](https://instagram.com/galembeckx) 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Galembeck-007BFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-galembeck/)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2fFP%2BZziQkqN2g%2F693v5Wg%3D%3D) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-galembeck) 
 [![Gmail Badge](https://img.shields.io/badge/-galembeckpedro@gmail.com-007BFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:galembeckpedro@gmail.com)](mailto:galembeckpedro@gmail.com)
 
 Passionate about the main web & mobile development technologies, especially front-end, focused on learning more and more.
