@@ -9,10 +9,6 @@ Front-end developer at [@MB Labs](https://mblabs.com.br/) & Computer Engineer st
 
 Passionate about the main web & mobile development technologies, especially front-end, focused on learning more and more, I am bachelor student in Computer Engineering and, currently, a Front-End Developer specialized in React.js, frameworks such as Next.js and Vite, and TypeScript, with experience in building scalable and high-performance web platforms. 
 
-I am currently working at MB Labs, as part of the team responsible for the "CPFL Finergy" project, which involves internal management systems and public-facing platforms. My responsibilities include building modern and responsive interfaces, implementing automated tests (unit and end-to-end) with Jest and Cypress, managing version control using GitFlow on Azure DevOps, deploying applications with automated pipelines on AWS, and monitoring code quality with SonarQube. I apply agile methodologies such as Scrum and Kanban to ensure consistent deliveries aligned with client needs.
-
-Among my recent contributions are the development and release of strategic features within tight deadlines, the standardization of reusable components to optimize team productivity, and the implementation of automated pipelines that perform code analysis with SonarQube. My key strengths include clear communication in multidisciplinary teams, proactivity in suggesting improvements, and adaptability to dynamic environments.
-
 Technical expertise includes:
 - Web Development: React & React Native, Next.js, JavaScript & TypeScript
 - Styling and Component Libraries: CSS, Sass, TailwindCSS, ShadcnUI, Styled Components
